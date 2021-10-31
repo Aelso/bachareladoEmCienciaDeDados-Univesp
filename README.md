@@ -1,2 +1,3 @@
-# Bacharelado-em-Ci-ncia-de-Dados-Univesp
+# bacharelado Em Ciência De Dados-Univesp
+
 exercíciosDasAulas

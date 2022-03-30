@@ -1,5 +1,5 @@
 # Bacharelado Em Ciência De Dados [UNIVESP](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)🚀
-## notebook com anotações para estudo e exercíciosDasAulas
+## Notebook com anotações para estudo e exercíciosDasAulas
 
 
                      

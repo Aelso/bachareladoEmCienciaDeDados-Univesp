@@ -1,12 +1,14 @@
 # Bacharelado Em Ciência De Dados [UNIVESP](https://univesp.br/cursos/bacharel-em-ciencia-de-dados)🚀
 ## notebook com anotações para estudo e exercíciosDasAulas
 
-* [Bimestre 7]
+
+                     
+ * [Bimestre 7]
 
       * [Banco de Dados](pre-requisitos)
       * [Cálculo II](pre-requisitos)
-      * [Projeto Integrador I](pre-requisitos)  
-                     
+      * [Projeto Integrador I](pre-requisitos)
+      
  * [Bimestre 8]
       * [Desenvolvimento web](pre-requisitos) 🏄
       * [Introdução a Ciência de Dados](https://github.com/Aelso/Introducao-a-Ciencia-de-Dados-COM350.git)📊🎲

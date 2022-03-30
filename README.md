@@ -11,11 +11,37 @@ Complementar a formação do Bacharel em Tecnologia da Informação com habilida
 voltadas a auxiliar no processo de extração de conhecimentos a partir de dados, que auxiliam nas tomadas de decisões.
 <!--ts-->
 
+* Bimestre 1
+  * Pensamento Computacional 🤔 
+  * Leitura e Produção de Textos 🦜 
+  * Ética, Cidadania e Sociedade 🦉
+
+
+* Bimestre 2
+  * Matemática Básica ✖️➗➕➖ 
+  * Inglês 🦅  
+  * Metodologia Científica 📑 🔥
+
+
+* Bimestre 3
+  * Algoritmos e Programação de Computadores I💾  
+  * Cálculo I🔢   
+  * Introdução a Conceitos de Computação ⌨️
+
+* Bimestre 4
+  * Algoritmos e Programação de Computadores II  💾
+  * Fundamentos Matemáticos para Computação 🔢  
+  * Fundamentos de web🕸️  
+
+* Bimestre 5
+  * Sistemas Computacionais 🌐 
+  * Estruturas de Dados 📦🎲 
+  * Formação Profissional em Computação 🕴️
 
 * Bimestre 6
 
-    * Estatística e Probabilidade
-    * Programação Orientada a Objetos🧮 📦
+    * Estatística e Probabilidade 🔢
+    * Programação Orientada a Objetos🧮 
     * Gestão da Inovação e Desenvolvimento de Produtos💯      
  * Bimestre 7 
       * Banco de Dados 🎲

@@ -23,7 +23,7 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
       * Projeto Integrador I 🗺️
       
  * Bimestre 8
-      * [Desenvolvimento web 🏄
+      * Desenvolvimento web 🏄
       * [Introdução a Ciência de Dados](https://github.com/Aelso/Introducao-a-Ciencia-de-Dados-COM350.git)📊🎲
 
  * Bimestre 9

@@ -40,7 +40,7 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
 
 * Bimestre 6
 
-    * Estatística e Probabilidade 🔢
+    * [Estatística e Probabilidade](https://github.com/Aelso/Estatistica-e-Probabilidade-PES300-UNIVESP.git) 🔢
     * Programação Orientada a Objetos🧮 
     * Gestão da Inovação e Desenvolvimento de Produtos💯      
  * Bimestre 7 

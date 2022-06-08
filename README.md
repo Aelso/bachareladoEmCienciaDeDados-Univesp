@@ -58,5 +58,5 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
 
  * Bimestre 10
       * Geometria Analítica e Álgebra Linear🔢
-      * Mineração de Dados 👷
+      * [Mineração de Dados](https://github.com/Aelso/Minera-o-de-Dados-COM360-UNIVESP.git)👷
 <!--te-->

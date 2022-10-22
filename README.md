@@ -59,4 +59,12 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
  * Bimestre 10
       * Geometria Analítica e Álgebra Linear🔢
       * [Mineração de Dados](https://github.com/Aelso/Minera-o-de-Dados-COM360-UNIVESP.git)👷
+      
+  * Bimestre 11
+      * Infraestrutura para Sistemas de Software 🦘
+      * Computação Escalável 🧗
+      
+   * Bimestre 12
+      * Visualização Computacional 👀
+      * [Aprendizado de Máquinas](https://github.com/Aelso/Aprendizado-de-Maquinas-COM410-UNIVESP.git)🤖
 <!--te-->

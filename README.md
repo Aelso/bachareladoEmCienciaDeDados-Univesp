@@ -67,4 +67,8 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
    * Bimestre 12
       * Visualização Computacional 👀
       * [Aprendizado de Máquinas](https://github.com/Aelso/Aprendizado-de-Maquinas-COM410-UNIVESP.git)🤖
+      
+   * Bimestre 13
+      * [Impactos da Computação na Sociedade](https://github.com/Aelso/Impactos-da-Computa-o-na-Sociedade-COM500-UNIVESP)🌎
+      * [Redes Neurais](https://github.com/Aelso/Redes-Neurais-COM510-UNIVESP) 🏆
 <!--te-->

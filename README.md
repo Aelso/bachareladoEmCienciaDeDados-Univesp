@@ -72,7 +72,7 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
       * [Impactos da Computação na Sociedade](https://github.com/Aelso/Impactos-da-Computa-o-na-Sociedade-COM500-UNIVESP)🌎
       * [Redes Neurais](https://github.com/Aelso/Redes-Neurais-COM510-UNIVESP) 🏆
       
-       * Bimestre 14
+   * Bimestre 14
       * [Aprendizado Profundo](https://github.com/Aelso/Aprendizado-Profundo-COM520-UNIVESP) 🐋
       * [Redes Neurais](https://github.com/Aelso/Redes-Neurais-COM510-UNIVESP) 🧠
 <!--te-->

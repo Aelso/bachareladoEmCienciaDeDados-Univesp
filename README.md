@@ -73,6 +73,6 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
       * [Redes Neurais](https://github.com/Aelso/Redes-Neurais-COM510-UNIVESP) 🏆
       
    * Bimestre 14
-      * [Aprendizado Profundo](https://github.com/Aelso/Aprendizado-Profundo-COM520-UNIVESP) 🐋
-      * [Redes Neurais](https://github.com/Aelso/Redes-Neurais-COM510-UNIVESP) 🧠
+      * [Aprendizado Profundo](https://github.com/Aelso/Aprendizado-Profundo-COM520-UNIVESP) 🧠
+      * [Visão Computacional](https://github.com/Aelso/Visao-Computacional-COM530-UNIVESP) 🐋
 <!--te-->

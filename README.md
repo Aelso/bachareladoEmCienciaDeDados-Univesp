@@ -74,11 +74,11 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
       * [Visão Computacional](https://github.com/Aelso/Visao-Computacional-COM530-UNIVESP) 🐋
       
   * Bimestre 15 [02.2023]
-   * Segurança da Informação
-   * Processamento de Linguagem Natural
+    * Segurança da Informação
+    * Processamento de Linguagem Natural
     
   * Bimestre 16 [02.2023]
-   * Planejamento Estratégico de Negócios
-   * Eletiva 
-   * TCC
+    * Planejamento Estratégico de Negócios
+    * Eletiva 
+    * TCC
 <!--te-->

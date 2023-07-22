@@ -74,8 +74,8 @@ voltadas a auxiliar no processo de extração de conhecimentos a partir de dados
       * [Visão Computacional](https://github.com/Aelso/Visao-Computacional-COM530-UNIVESP) 🐋
       
   * Bimestre 15 [02.2023]
-    * Segurança da Informação
-    * Processamento de Linguagem Natural
+    * [Segurança da Informação](https://github.com/Aelso/Seguranca-da-Informacao-COM440-UNIVESP) 🙈
+    * [Processamento de Linguagem Natural](https://github.com/Aelso/Processamento-de-Linguagem-Natural-COM550-UNIVESP) 👅
     
   * Bimestre 16 [02.2023]
     * Planejamento Estratégico de Negócios
